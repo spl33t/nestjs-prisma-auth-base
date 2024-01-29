@@ -38,6 +38,8 @@ JWT auth nestjs.
 ```bash
 $ pnpm install
 ```
+**Запустить prisma миграции для содания таблиц в БД**
+npx prisma migrate dev --name init   
 
 ## Запуск приложения
 
