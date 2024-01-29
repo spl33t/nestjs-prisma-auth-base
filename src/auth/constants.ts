@@ -1,0 +1,4 @@
+export const AUTH_MODULE_CONSTANTS = {
+    ACCESS_TOKEN_KEY: "ACCESS_TOKEN",
+    ACCESS_TOKEN_SECRET: "1337secret",
+} as const
